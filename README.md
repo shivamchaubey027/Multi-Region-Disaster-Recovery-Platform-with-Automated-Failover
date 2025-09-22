@@ -10,11 +10,6 @@ Main goal:
 
 ---
 
-## Architecture Diagram
-*(Insert the diagram image here)*
-
----
-
 ## Key Features & Concepts
 
 ### 1. Infrastructure as Code (IaC)
